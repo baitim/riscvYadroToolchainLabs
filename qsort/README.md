@@ -2,8 +2,7 @@
 
 <h2 align="center">Average execution time for ints</h2>
 <figure>
-<p align="center">
-<table>
+<table align="center">
 <thead>
 <tr>
 <th style="text-align: center;"></th>
@@ -45,6 +44,5 @@
 </tr>
 </tbody>
 </table>
-</p>
 <figcaption><p align="center">i5-1135G7</p></figcaption>
 </figure>
